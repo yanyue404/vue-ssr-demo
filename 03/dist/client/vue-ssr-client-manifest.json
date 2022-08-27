@@ -1,0 +1,54 @@
+{
+  "publicPath": "/",
+  "all": [
+    "css/main.3a6ca984.css",
+    "js/chunk-vendors.170a673b.js",
+    "js/chunk-vendors.170a673b.js.map",
+    "js/main.3d662160.js",
+    "js/main.3d662160.js.map"
+  ],
+  "initial": [
+    "js/chunk-vendors.170a673b.js",
+    "css/main.3a6ca984.css",
+    "js/main.3d662160.js"
+  ],
+  "async": [],
+  "modules": {
+    "2e2180c4": [
+      0,
+      3,
+      -1,
+      4
+    ],
+    "7a62b912": [
+      0,
+      3,
+      -1,
+      4
+    ],
+    "350da9a3": [
+      1,
+      2
+    ],
+    "29db0859": [
+      1,
+      2
+    ],
+    "ec5a32e2": [
+      0,
+      3,
+      -1,
+      4
+    ],
+    "1dbeb757": [
+      0,
+      3,
+      -1,
+      4
+    ],
+    "52b31cc6": [
+      1,
+      2
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "publicPath": "/",
+  "all": [
+    "js/chunk-vendors.21481cff.js",
+    "js/main.a69a758b.js"
+  ],
+  "initial": [
+    "js/chunk-vendors.21481cff.js",
+    "js/main.a69a758b.js"
+  ],
+  "async": [],
+  "modules": {
+    "06232bdc": [
+      1
+    ],
+    "60cb98d9": [
+      1
+    ],
+    "5e9c7890": [
+      1
+    ],
+    "33dc33f3": [
+      0
+    ],
+    "116bb06f": [
+      0
+    ],
+    "350da9a3": [
+      0
+    ],
+    "29db0859": [
+      0
+    ],
+    "36f0a259": [
+      1
+    ],
+    "52b31cc6": [
+      0
+    ],
+    "2cdc6646": [
+      1
+    ]
+  }
+}
